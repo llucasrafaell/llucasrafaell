@@ -1,4 +1,3 @@
-# Hi there 👋
 <h1 align="center">Hello, I'm Lucas Rafael Martins!👋</h1>
 
 <p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2020.</p> 
