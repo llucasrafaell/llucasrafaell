@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lucas Rafael Martins!👋</h1>
 
 <p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2020.</p> 
-<p align="center">I am currently a student of Computer Engineering at UFRGS.</p>
+<p align="center">I am currently a student of Software Engineering at PUCRS</p>
 
 
 <div align="center">
